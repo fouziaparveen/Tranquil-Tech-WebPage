@@ -1,3 +1,3 @@
 # Tranquil-Tech-WebPage
 
-![alt text](<Home page.png>)
+![alt text](<Gallery/Home page.png>)
